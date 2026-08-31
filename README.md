@@ -79,10 +79,10 @@ it's how the lab stays automated.
 **Home lab**: VMware ESXi and Proxmox, three segmented networks, FortiGate perimeter, MikroTik
 routing, Cisco access layer, and a full self-hosted monitoring stack. Documented as I build it.
 
-**Network automation** — Extending the n8n platform and the Python tooling that sits alongside it,
+**Network automation**: Extending the n8n platform and the Python tooling that sits alongside it,
 with NetBox as the inventory source of truth.
 
-**Broadcast network** — Documenting the design and rollout of the FM broadcast network I deployed
+**Broadcast network**: Documenting the design and rollout of the FM broadcast network I deployed
 across Freetown, Bo, Makeni, Kenema, and Kono.
 
 ---

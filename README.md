@@ -76,7 +76,7 @@ it's how the lab stays automated.
 
 ## Current focus
 
-**Home lab** — VMware ESXi and Proxmox, three segmented networks, FortiGate perimeter, MikroTik
+**Home lab**: VMware ESXi and Proxmox, three segmented networks, FortiGate perimeter, MikroTik
 routing, Cisco access layer, and a full self-hosted monitoring stack. Documented as I build it.
 
 **Network automation** — Extending the n8n platform and the Python tooling that sits alongside it,

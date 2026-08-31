@@ -2,7 +2,7 @@
 
 **IT Infrastructure Engineer · Rostock, Germany**
 
-Six years of planning, building, and maintaining network and systems infrastructure — from a
+Six years of planning, building, and maintaining network and systems infrastructure, from a
 nationwide FM broadcast network across five cities in Sierra Leone to a 20+ VM virtualisation
 lab running in Germany.
 
@@ -13,18 +13,18 @@ automation that keeps the whole thing observable without manual effort.
 
 ## What I do
 
-**Virtualisation and servers** — I run a production-style lab on VMware ESXi and Proxmox: 20+ VMs
+**Virtualisation and servers**  I run a production-style lab on VMware ESXi and Proxmox: 20+ VMs
 across three segmented networks, Windows Server for Active Directory and DNS, and Linux hosts for
 everything else.
 
-**Networking** — Cisco at the access layer, MikroTik for routing, FortiGate for perimeter
+**Networking**  Cisco at the access layer, MikroTik for routing, FortiGate for perimeter
 firewalling, and EVE-NG for topology work that shouldn't touch live kit.
 
-**Monitoring and security** — Self-hosted Zabbix for infrastructure metrics and alerting, Wazuh
+**Monitoring and security**  Self-hosted Zabbix for infrastructure metrics and alerting, Wazuh
 for SIEM and host-based intrusion detection, NetBox as the source of truth for IPAM and device
 inventory.
 
-**Automation** — An n8n platform running nine workflows: scheduled network discovery, automated
+**Automation**  An n8n platform running nine workflows: scheduled network discovery, automated
 NetBox device mapping, Zabbix alert routing, and Telegram notifications. Infrastructure that
 reports on itself.
 
@@ -69,7 +69,7 @@ reports on itself.
 ### Also working with
 
 Python for network automation (Netmiko, NAPALM) and a Flask application I built and run on my own
-infrastructure. Scripting supports the infrastructure work rather than being the job itself — but
+infrastructure. Scripting supports the infrastructure work rather than being the job itself,  but
 it's how the lab stays automated.
 
 ---
@@ -100,9 +100,9 @@ across Freetown, Bo, Makeni, Kenema, and Kono.
 **Planned**
 
 - Cisco CCNA 200-301
-- CompTIA Security+ SY0-701
-- VMware VCP-VVF
-- German B1
+- AWS Cloud Practitioner
+- VMware VCP vSphere Foundation
+- German telc B1
 
 ---
 
